@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background: red;
+    color: black;
+    padding: 50px;
+}
+
+a{
+    color: antiquewhite;
+    background-color: rgb(206, 185, 185);
+    color: rgb(14, 10, 226);
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 50px;
+}
